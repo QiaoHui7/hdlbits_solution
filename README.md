@@ -1,2 +1,9 @@
 # hdlbits_solution
-hdlbits solution for free~
+this is hdlbits solution for free~
+
+
+
+Official website:
+
+https://hdlbits.01xz.net/wiki/Main_Page
+
